@@ -1,7 +1,5 @@
-body{
+body {
     margin: 2px;
     padding: 2px;
-}
-a {
-    color: red;
+    background-image: url("heading.jpg");
 }
