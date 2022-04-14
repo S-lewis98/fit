@@ -10,3 +10,16 @@ body {
     background-size: cover;
     height: 100vh;
 }
+ul{
+    color: white;
+}
+
+.navbar:hover {
+    background-color: white;
+    color: purple;
+}
+
+a:hover {
+    color: white;
+
+}
