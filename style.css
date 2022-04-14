@@ -10,9 +10,24 @@ body {
     background-size: cover;
     height: 100vh;
 }
+<<<<<<< HEAD
 #footer
 {
     position: absolute;
     bottom: 0;
     width: 100%;
+=======
+ul{
+    color: white;
+}
+
+.navbar:hover {
+    background-color: white;
+    color: purple;
+}
+
+a:hover {
+    color: white;
+
+>>>>>>> 2c3fa8a3248d6ca87a8e9198693067621f3b2eb7
 }
