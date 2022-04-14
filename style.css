@@ -8,13 +8,5 @@ body {
     background-image: linear-gradient(to bottom right, red, black);
     background-repeat:no-repeat;
     background-size: cover;
-<<<<<<< HEAD
-}
-
-.carouselExampleControls {
-    
-
-=======
     background-repeat: no-repeat;
->>>>>>> 707badeef8cd6732cc1e61840c1e2022a1517b30
 }
