@@ -8,5 +8,5 @@ body {
     background-image: linear-gradient(to bottom right, red, black);
     background-repeat:no-repeat;
     background-size: cover;
-    background-repeat: no-repeat;
+    height: 100vh;
 }
