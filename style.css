@@ -2,6 +2,6 @@ body {
     margin: 2px;
     padding: 2px;
     background-image: linear-gradient(to bottom right, red, black);
-    background-repeat: no-repeat;
+    background-repeat:no-repeat;
     background-size: cover;
 }
